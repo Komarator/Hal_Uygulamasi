@@ -22,7 +22,6 @@ namespace HalUygulaması
             SqlConnection db = new SqlConnection(con);
             db.Open();
             string update = "UPDATE EYB.dbo.Urunler SET urun_adi = '" + urunAdi.Text + "',urun_cinsi = '" + urunCinsi.Text + "',urun_turu = '" + urunTuru.Text + "',satis_fiyati = '" + satisFiyati.Text + "',birim_adi = '" + birimAdi.Text + "',tarih = '" + tarih.SelectedDate.ToString("yyyy-MM-dd") + "' WHERE id = " + urunID.Text + ";"; ;
-            Label2.Text = update;
             SqlCommand cmd = new SqlCommand(update, db);
             int m = cmd.ExecuteNonQuery();
             db.Close();

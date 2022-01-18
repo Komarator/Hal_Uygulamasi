@@ -69,7 +69,6 @@
                 </tr>
             </table>
             <br />
-            <asp:Label ID="Label2" runat="server" Text="Label"></asp:Label>
             <br />
             <br />
             <asp:Button ID="guncelleButton" runat="server" OnClick="guncelleButton_Click" Text="Güncelle" />

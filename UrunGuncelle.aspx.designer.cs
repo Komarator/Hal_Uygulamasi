@@ -1,10 +1,10 @@
 ﻿//------------------------------------------------------------------------------
-// <otomatik olarak oluşturulmuş>
+// <otomatik üretildi>
 //     Bu kod bir araç tarafından oluşturuldu.
 //
-//     Bu dosyada yapılacak değişiklikler hatalı davranışa neden olabilir ve
+//     Bu dosyada yapılacak değişiklikler yanlış davranışa neden olabilir ve
 //     kod tekrar üretildi. 
-// </otomatik olarak oluşturulmuş>
+// </otomatik üretildi>
 //------------------------------------------------------------------------------
 
 namespace HalUygulaması
@@ -18,7 +18,7 @@ namespace HalUygulaması
         /// form1 denetimi.
         /// </summary>
         /// <remarks>
-        /// Otomatik olarak oluşturulan alan.
+        /// Otomatik üretilmiş alan.
         /// Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
@@ -27,7 +27,7 @@ namespace HalUygulaması
         /// Label1 denetimi.
         /// </summary>
         /// <remarks>
-        /// Otomatik olarak oluşturulan alan.
+        /// Otomatik üretilmiş alan.
         /// Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label Label1;
@@ -36,7 +36,7 @@ namespace HalUygulaması
         /// urunID denetimi.
         /// </summary>
         /// <remarks>
-        /// Otomatik olarak oluşturulan alan.
+        /// Otomatik üretilmiş alan.
         /// Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox urunID;
@@ -45,7 +45,7 @@ namespace HalUygulaması
         /// araButton denetimi.
         /// </summary>
         /// <remarks>
-        /// Otomatik olarak oluşturulan alan.
+        /// Otomatik üretilmiş alan.
         /// Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button araButton;
@@ -54,7 +54,7 @@ namespace HalUygulaması
         /// urunAdi denetimi.
         /// </summary>
         /// <remarks>
-        /// Otomatik olarak oluşturulan alan.
+        /// Otomatik üretilmiş alan.
         /// Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox urunAdi;
@@ -63,7 +63,7 @@ namespace HalUygulaması
         /// urunCinsi denetimi.
         /// </summary>
         /// <remarks>
-        /// Otomatik olarak oluşturulan alan.
+        /// Otomatik üretilmiş alan.
         /// Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox urunCinsi;
@@ -72,7 +72,7 @@ namespace HalUygulaması
         /// urunTuru denetimi.
         /// </summary>
         /// <remarks>
-        /// Otomatik olarak oluşturulan alan.
+        /// Otomatik üretilmiş alan.
         /// Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox urunTuru;
@@ -81,7 +81,7 @@ namespace HalUygulaması
         /// satisFiyati denetimi.
         /// </summary>
         /// <remarks>
-        /// Otomatik olarak oluşturulan alan.
+        /// Otomatik üretilmiş alan.
         /// Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox satisFiyati;
@@ -90,7 +90,7 @@ namespace HalUygulaması
         /// birimAdi denetimi.
         /// </summary>
         /// <remarks>
-        /// Otomatik olarak oluşturulan alan.
+        /// Otomatik üretilmiş alan.
         /// Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox birimAdi;
@@ -99,25 +99,16 @@ namespace HalUygulaması
         /// tarih denetimi.
         /// </summary>
         /// <remarks>
-        /// Otomatik olarak oluşturulan alan.
+        /// Otomatik üretilmiş alan.
         /// Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Calendar tarih;
 
         /// <summary>
-        /// Label2 denetimi.
-        /// </summary>
-        /// <remarks>
-        /// Otomatik olarak oluşturulan alan.
-        /// Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label2;
-
-        /// <summary>
         /// guncelleButton denetimi.
         /// </summary>
         /// <remarks>
-        /// Otomatik olarak oluşturulan alan.
+        /// Otomatik üretilmiş alan.
         /// Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button guncelleButton;
